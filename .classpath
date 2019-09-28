@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/sikuli-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/syntaxpane-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/new/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ayushi/Desktop/auto/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
